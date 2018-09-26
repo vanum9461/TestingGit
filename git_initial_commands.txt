@@ -1,3 +1,9 @@
 Set Up Git:
 git config --global user.name "Your username"
 git config --global user.email  (youremail@domain.com)
+
+Some other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message) filename
+git push -u origin master
