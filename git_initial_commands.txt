@@ -1,0 +1,3 @@
+Set Up Git:
+git config --global user.name "Your username"
+git config --global user.email  (youremail@domain.com)
